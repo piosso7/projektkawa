@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/projektkawa/static/css/main.706d583a.chunk.css",
+    "main.js": "/projektkawa/static/js/main.ca70497b.chunk.js",
+    "main.js.map": "/projektkawa/static/js/main.ca70497b.chunk.js.map",
+    "runtime-main.js": "/projektkawa/static/js/runtime-main.b8a0ba81.js",
+    "runtime-main.js.map": "/projektkawa/static/js/runtime-main.b8a0ba81.js.map",
+    "static/js/2.95064d41.chunk.js": "/projektkawa/static/js/2.95064d41.chunk.js",
+    "static/js/2.95064d41.chunk.js.map": "/projektkawa/static/js/2.95064d41.chunk.js.map",
+    "index.html": "/projektkawa/index.html",
+    "static/css/main.706d583a.chunk.css.map": "/projektkawa/static/css/main.706d583a.chunk.css.map",
+    "static/js/2.95064d41.chunk.js.LICENSE.txt": "/projektkawa/static/js/2.95064d41.chunk.js.LICENSE.txt",
+    "static/media/Caffemacchiato.ef7a1da0.jpg": "/projektkawa/static/media/Caffemacchiato.ef7a1da0.jpg",
+    "static/media/Cappuccino.64351eee.jpg": "/projektkawa/static/media/Cappuccino.64351eee.jpg",
+    "static/media/Espresso.caffb3cb.jpg": "/projektkawa/static/media/Espresso.caffb3cb.jpg",
+    "static/media/Freddo.a0f5aa2f.jpg": "/projektkawa/static/media/Freddo.a0f5aa2f.jpg",
+    "static/media/Mokka.f382294f.jpg": "/projektkawa/static/media/Mokka.f382294f.jpg",
+    "static/media/Ristretto.94955ffc.jpg": "/projektkawa/static/media/Ristretto.94955ffc.jpg",
+    "static/media/Romano.c7381e8b.jpg": "/projektkawa/static/media/Romano.c7381e8b.jpg",
+    "static/media/index.css": "/projektkawa/static/media/coffeepagebg.d12039f0.png",
+    "static/media/headerBgVideo.0d11d2b0.mp4": "/projektkawa/static/media/headerBgVideo.0d11d2b0.mp4",
+    "static/media/homeImg.578f1141.jpg": "/projektkawa/static/media/homeImg.578f1141.jpg",
+    "static/media/logo.5329e6d2.png": "/projektkawa/static/media/logo.5329e6d2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8a0ba81.js",
+    "static/js/2.95064d41.chunk.js",
+    "static/css/main.706d583a.chunk.css",
+    "static/js/main.ca70497b.chunk.js"
+  ]
+}
