@@ -170,3 +170,57 @@ p.socialEmail {
   font-size: 30px;
   text-align: center;
 }
+
+@media (max-width:800px) {
+
+  .logoImg {
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    width: 50%;
+  }
+
+  ul.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  ul.header li a {
+    font-size: 12px;
+    padding: 13px;
+  }
+
+  .headerBgVideo {
+    position: absolute;
+    z-index: -1;
+    width: 100vw;
+    height: 50%;
+    overflow: hidden;
+  }
+
+  .headerBgVideoSrc {
+    width: auto;
+    height: 100%;
+    max-width: 1400px;
+  }
+
+  .content h3 {
+    padding: 10px;
+    font-size: 15px;
+  }
+
+  .contentText {
+    padding: 2px;
+  }
+
+  .content p {
+    width: 50%;
+    font-size: 12px;
+    padding: 5px;
+  }
+
+  .contentTextv2 {
+    padding: 2px;
+  }
+}
