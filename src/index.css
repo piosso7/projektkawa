@@ -194,14 +194,13 @@ p.socialEmail {
     position: absolute;
     z-index: -1;
     width: 100vw;
-    height: 50%;
+    height: 60%;
     overflow: hidden;
   }
 
   .headerBgVideoSrc {
     width: auto;
-    height: 100%;
-    max-width: 1400px;
+    max-width: 800px;
   }
 
   .content h3 {
