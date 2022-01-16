@@ -5,7 +5,7 @@ export default class Home extends Component {
   render() {
     return (
       <div className="content">
-        <div className="contentText">
+        <div className="contentText mobileColumn">
           <p>
             <b>Witaj ma stronie grupy Coffee!</b> <br></br>
             <br></br>

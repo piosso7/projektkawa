@@ -212,6 +212,14 @@ p.socialEmail {
     padding: 2px;
   }
 
+  .mobileColumn {
+    flex-direction: column;
+  }
+
+  .mobileColumn img {
+    margin: 20px 0px;
+  }
+
   .content p {
     width: 50%;
     font-size: 12px;
